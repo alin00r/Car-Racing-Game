@@ -7,7 +7,7 @@
 
 https://user-images.githubusercontent.com/74410154/210855631-ab9ff88c-d5ba-484d-98ae-9351a960f61a.mp4
 ## Run the game
-<h3> You can run the game through the car icon simply(practicalProject.exe)</h3>
+<h4> You can run the game through the car icon simply(practicalProject.exe)</h4>
 <img src="https://user-images.githubusercontent.com/74410154/210791145-6517163b-3548-443b-aa54-0154cc37044b.png">
 
 ### Mouse 
